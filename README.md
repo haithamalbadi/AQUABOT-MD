@@ -22,12 +22,7 @@ This project is still being tested
 
 ---------------------------------   
 
- ###  Developer :- Sanuwa-official 
-
-## Thanks To
-- [@adiwajshing](https://github.com/adiwajshing/) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
-- [@yusufusta](https://github.com/yusufusta/) for coded [WhatsAsena](https://github.com/yusufusta/WhatsAsena) 
-- [@sisula](https://github.com/sisula/) & [@joka](https://github.com/MrJoka-Thejaka/) for all the helps 🤝
+ 
  
   
  
