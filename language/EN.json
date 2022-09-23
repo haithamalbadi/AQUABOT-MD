@@ -11,17 +11,17 @@
                             "WARN"     : "Warn"
                            },
                   "yt" :   {
-                            "N_SONG"   : "*🧜‍♀️💬ادخل اسم الأغنية*\nex : .أحب البر والمزيون" ,
-                            "NOT_SONG" : "*الأغنية ليست موجودة‼️*" ,
-                            "S_YT"     : "*🔍SEARCHING ON YOUTUBE...*" ,
-                            "N_YT"     : "*🧜‍♀️💬ENTER A TOPIC* \nex : .getyt sri lanka cricket" ,
-                            "N_VID"    : "*🧜‍♀️💬ENTER A YOUTUBE VIDEO LINK*\nex : .video https://youtu.be/pyCIKli4YUA" ,
-                            "N_FB"     : "*🧜‍♀️💬ENTER A FACEBOOK VIDEO LINK*" , 
-                            "N_MF"     : "*🧜‍♀️💬ENTER A MEDIAFIRE LINK*" , 
-                            "N_TIK"    : "*🧜‍♀️💬ENTER A TIKTOK VIDEO LINK*" ,
-                            "NOT_VID"  : "*VIDEO NOT FOUND‼️*", 
-                            "N_IG "    : "🧜‍♀️💬ENTER A INSTAGRAM LINK",
-                            "N_FOUND"  : "*NOT FOUND‼️*"
+                            "N_SONG"   : "*🧜‍♀️💬ادخل اسم المقطع الصوتي*\nex : .سورة البقرة" ,
+                            "NOT_SONG" : "المقطع الصوتي غير موجود‼️*" ,
+                            "S_YT"     : "*🔍جارٍ البحث على اليوتيوب...*" ,
+                            "N_YT"     : "*🧜‍♀️💬ادخل موضوع ما* \nex : .getyt مكة المكرمة" ,
+                            "N_VID"    : "*🧜‍♀️💬ادخل رابط مقطع يوتيوب*\nex : .video https://youtu.be/pyCIKli4YUA" ,
+                            "N_FB"     : "*🧜‍♀️💬ادخل رابط مقطع فيسبوك*" , 
+                            "N_MF"     : "*🧜‍♀️💬ادخل رابط ميديافير*" , 
+                            "N_TIK"    : "*🧜‍♀️💬ادخل رابط مقطع تيك توك*" ,
+                            "NOT_VID"  : "*الفيديو غير موجود‼️*", 
+                            "N_IG "    : "*🧜‍♀️💬ادخل رابط انستقرام*" ,
+                            "N_FOUND"  : "*غير موجود‼️*"
                           } ,
                 "admin" : {  
                              "UR_NOT_ADMIN": "*You are not admin in this group!*",
