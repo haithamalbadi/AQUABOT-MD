@@ -24,32 +24,32 @@
                             "N_FOUND"  : "*غير موجود‼️*"
                           } ,
                 "admin" : {  
-                             "UR_NOT_ADMIN": "*You are not admin in this group!*",
-                             "IM_NOT_ADMIN": "*I am not admin in this group!*",
-                             "BANNED": "kicked out of the group!",
-                             "GIVE_ME_USER": "*Give me a user!*" ,
-                             "USER_IS_ADMIN" : "*Can not kick group Admins!*" ,
-                             "ADDED"         : "added to the group!!" ,
-                             "E_USER"        : "*🧜‍♀️💬  Enter the number to be added to the group with the country code without + mark and space.*",
-                             "ISN_ADMIN"     : "*🧜‍♀️💬The person you mentioned is not a group admin.*",
-                             "IS_ADMIN"      : "*🧜‍♀️💬The person you mentioned is a group admin.*",
+                             "UR_NOT_ADMIN": "*أنت لستَ مشرفاً في هذه المجموعة!*",
+                             "IM_NOT_ADMIN": "*أنا لست مشرفاً في هذه المجموعة!*",
+                             "BANNED": "طُرد من المجموعة!",
+                             "GIVE_ME_USER": "*أعطني اسم مستخدم!*" ,
+                             "USER_IS_ADMIN" : "*لا يُمكن طرد مشرفي المجموعة!*" ,
+                             "ADDED"         : "أضيف إلى المجموعة!!" ,
+                             "E_USER"        : "*🧜‍♀️💬  أدخل الرقم المراد إضافته إلى المجموعة مع رمز البلد بدون علامة + ومسافة.*",
+                             "ISN_ADMIN"     : "*🧜‍♀️💬الشخص الذي حددته ليس مشرف المجموعة.*",
+                             "IS_ADMIN"      : "*🧜‍♀️💬الشخص الذي حددته هو مشرف المجموعة.*",
                              "MUTE"          : "*🧜‍♀️💬The group chat has muted!.*",
                              "UNMUTE"        : "*🧜‍♀️💬The group chat has unmuted!.*",
-                             "PROMOTE"       : "has been promoted !",
-                             "DEMOTE"        : "has been demoted !"
+                             "PROMOTE"       : "تمت الترقية !",
+                             "DEMOTE"        : "تم تخفيض الرتبة !"
     
                            } ,
                 "stic" : {
                               "NEED"   : "*🧜‍♀️💬 please mention an image or video*" ,
                               "C_STIC" : "```🧰creating sticker...```" ,
-                              "N_STIC" : "*🧜‍♀️💬 Please mention a sticker.*" ,
+                              "N_STIC" : "*🧜‍♀️💬 الرجاء تحديد ستكر/ملصق.*" ,
                               "C_IMG"  : "```🧰converting sticker to image...```" ,
                               "C_VID"  : "```🧰converting animated sticker to video...```" 
                            },
                
                 "apk"  :  {  
-                              "N_LINK" : "*🧜‍♀️💬 Enter a google playstore app link .*" ,
-                              "ERROR"  : "*🧜‍♀️💬APK Not Found!.*"
+                              "N_LINK" : "*🧜‍♀️💬 ادخل رابط تطبيق من متجر جوجل .*" ,
+                              "ERROR"  : "*🧜‍♀️💬التطبيق غير موجود!.*"
     
                            },
          "filters": {
